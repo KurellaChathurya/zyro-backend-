@@ -1,5 +1,6 @@
 /Users/kurellachathurya/Desktop/zyro/backend/src/main/java/com/example/zyro/ZyroApplication.java
 /Users/kurellachathurya/Desktop/zyro/backend/src/main/java/com/example/zyro/controller/AuthController.java
+/Users/kurellachathurya/Desktop/zyro/backend/src/main/java/com/example/zyro/controller/ChatController.java
 /Users/kurellachathurya/Desktop/zyro/backend/src/main/java/com/example/zyro/controller/ItemController.java
 /Users/kurellachathurya/Desktop/zyro/backend/src/main/java/com/example/zyro/entity/Item.java
 /Users/kurellachathurya/Desktop/zyro/backend/src/main/java/com/example/zyro/entity/User.java

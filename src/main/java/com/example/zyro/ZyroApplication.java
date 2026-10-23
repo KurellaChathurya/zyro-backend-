@@ -8,4 +8,5 @@ public class ZyroApplication {
     public static void main(String[] args) {
         SpringApplication.run(ZyroApplication.class, args);
     }
+
 }
